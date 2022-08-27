@@ -33,7 +33,6 @@
 <br />
 <a href="https://github.com/varun2430">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=varun2430&show_icons=true&theme=dark&locale=en" />
-  &nbsp;
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=varun2430&show_icons=true&theme=dark&locale=en&layout=compact" />
 </a>
 <br />
