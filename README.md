@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Varun Kadkade</h1>
-<h3 align="center">A web development and data science enthusiast</h3>
+<h3 align="center">A web development and cloud enthusiast</h3>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🎓 &nbsp; Studying Computer Science Engineering at VIT Bhopal University.
-- 🌱 &nbsp; I’m currently learning **React Redux and Blockchain**
+- 🌱 &nbsp; I’m currently learning **google cloud, AWS and data science**
 - 💬 &nbsp; Ask me about **MERN stack**
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
