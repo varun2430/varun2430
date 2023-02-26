@@ -28,14 +28,6 @@
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
-
-<!-- <br />
-<a href="https://github.com/varun2430">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=varun2430&show_icons=true&theme=dark&locale=en" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=varun2430&show_icons=true&theme=dark&locale=en&layout=compact" />
-</a>
-<br /> -->
-
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
