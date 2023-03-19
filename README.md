@@ -32,7 +32,6 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/varun-kadkade-7359aa214/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Varun%20Prashant%20Kadkade-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/varun_kadkade/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-varun_kadkade-blue?style=flat-square&logo=instagram"></a>
 <a href="mailto:varunkadkade2442@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-varunkadkade2442@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
