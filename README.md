@@ -4,7 +4,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🎓 &nbsp; Studying Computer Science Engineering at VIT Bhopal University.
-- 🌱 &nbsp; I’m currently learning **google cloud and data analytics**
+- 🌱 &nbsp; I’m currently learning **flutter, google cloud and aws**
 - 💬 &nbsp; Ask me about **MERN stack**
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
